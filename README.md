@@ -1,0 +1,2 @@
+# EjemploCORS
+Ejemplo de CORS.
